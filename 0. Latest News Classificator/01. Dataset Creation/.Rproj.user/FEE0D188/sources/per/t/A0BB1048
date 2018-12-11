@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544559339180.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2400574450",
+    "id" : "A0BB1048",
+    "lastKnownWriteTime" : 1544562233,
+    "last_content_update" : 1544562233766,
+    "path" : "C:/Users/migue/Data Science/Master Data Science/KSCHOOL/9. TFM/0. Latest News Classificator/01. Dataset Creation/01. Dataset Creation.R",
+    "project_path" : "01. Dataset Creation.R",
+    "properties" : {
+        "cursorPosition" : "62,0",
+        "scrollLine" : "49",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
