@@ -61,10 +61,9 @@ df_final <-
 # Save dataset: .rda
 save(df_final, file='Dataset.rda')
 
-
-
 # Load dataset
 load(file='Dataset.rda')
 
-
+# Write csv to import to python
+write.csv2(df_final,fileEncoding = 'utf8', "News_dataset.csv", row.names = FALSE)
 
