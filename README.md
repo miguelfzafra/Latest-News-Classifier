@@ -1,1 +1,1 @@
-# Latest News Classificator
+# Latest News Classifier
