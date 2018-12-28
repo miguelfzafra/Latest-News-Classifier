@@ -18,10 +18,10 @@ library(readtext)
 rm(list = ls())
 
 # Working directory
-setwd('C:/Users/migue/Data Science/Master Data Science/KSCHOOL/9. TFM/0. Latest News Classificator/01. Dataset Creation')
+setwd('C:/Users/migue/Data Science/Master Data Science/KSCHOOL/9. TFM/0. Latest News Classifier/01. Dataset Creation')
 
 # Path definition of the news archives
-path <- 'C:/Users/migue/Data Science/Master Data Science/KSCHOOL/9. TFM/0. Latest News Classificator/00. Raw dataset/BBC/bbc-fulltext/bbc'
+path <- 'C:/Users/migue/Data Science/Master Data Science/KSCHOOL/9. TFM/0. Latest News Classifier/00. Raw dataset/BBC/bbc-fulltext/bbc'
 
 # List with the 5 categories
 list_categories <- list.files(path=path)

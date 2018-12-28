@@ -18,10 +18,10 @@ library(readtext)
 rm(list = ls())
 
 # Working directory
-setwd('C:/Users/migue/Data Science/Master Data Science/KSCHOOL/9. TFM/0. Latest News Classificator/01. Dataset Creation')
+setwd('C:/Users/migue/Data Science/Master Data Science/KSCHOOL/9. TFM/0. Latest News Classifier/01. Dataset Creation')
 
 # Path definition of the news archives
-path <- 'C:/Users/migue/Data Science/Master Data Science/KSCHOOL/9. TFM/0. Latest News Classificator/00. Raw dataset/BBC/bbc-fulltext/bbc'
+path <- 'C:/Users/migue/Data Science/Master Data Science/KSCHOOL/9. TFM/0. Latest News Classifier/00. Raw dataset/BBC/bbc-fulltext/bbc'
 
 # List with the 5 categories
 list_categories <- list.files(path=path)
@@ -61,10 +61,9 @@ df_final <-
 # Save dataset: .rda
 save(df_final, file='Dataset.rda')
 
-
-
 # Load dataset
 load(file='Dataset.rda')
 
-
+# Write csv to import to python
+write.csv2(df_final,fileEncoding = 'utf8', "News_dataset.csv", row.names = FALSE)
 
