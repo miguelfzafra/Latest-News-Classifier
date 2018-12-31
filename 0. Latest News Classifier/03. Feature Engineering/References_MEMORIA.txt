@@ -1,0 +1,4 @@
+References:
+* https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/
+* https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f
+* https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/

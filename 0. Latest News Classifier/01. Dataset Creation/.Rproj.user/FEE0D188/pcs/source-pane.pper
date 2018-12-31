@@ -1,3 +1,5 @@
 {
-    "activeTab" : 0
+    "activeTab" : -1,
+    "activeTabSourceWindow1" : 0,
+    "activeTabSourceWindow2" : 0
 }
