@@ -110,4 +110,4 @@ $ heroku ps:scale web=1  # run the app with a 1 heroku "dyno"
 
 ```
 
-Source: [stackoverflow](#https://stackoverflow.com/questions/47949173/deploy-a-python-app-to-heroku-using-conda-environments-instead-of-virtualenv)
+Source: [stackoverflow](https://stackoverflow.com/questions/47949173/deploy-a-python-app-to-heroku-using-conda-environments-instead-of-virtualenv)
