@@ -13,5 +13,5 @@ This is achieved with a **supervised machine learning classification** model tha
 
 The web application can be used at https://lnclass.herokuapp.com.
 
-The full detailed process is explained in the **report**(). Following it and the different notebooks should be necessary for reaching a  full understanding of the project.
+The full detailed process is explained in the **report**(https://github.com/miguelfzafra/Latest-News-Classifier/blob/master/0.%20Latest%20News%20Classifier/09.%20Report/Latest%20News%20Classifier.pdf). Following it and the different notebooks should be necessary for reaching a  full understanding of the project.
 
