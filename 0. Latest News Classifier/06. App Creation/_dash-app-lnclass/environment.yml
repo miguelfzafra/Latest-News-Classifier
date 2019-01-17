@@ -1,0 +1,19 @@
+name: dash_app_lnclass #Environment name
+dependencies:
+  - python=3.6
+  - pip:
+    - dash
+    - dash-renderer
+    - dash-core-components
+    - dash-html-components
+    - dash-table
+    - plotly
+    - gunicorn # for app deployment
+    - nltk
+    - scikit-learn
+    - beautifulsoup4
+    - requests
+    - pandas
+    - numpy
+    - lxml
+
