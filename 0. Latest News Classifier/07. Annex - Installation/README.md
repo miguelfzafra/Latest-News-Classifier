@@ -14,7 +14,7 @@ Please note that the process of deploying the app to a web server is covered in 
 
 
 
-First of all, download and install the Ubuntu 18.04 disk image from [here](#https://www.ubuntu.com/download/desktop).
+First of all, download and install the Ubuntu 18.04 disk image from [here](https://www.ubuntu.com/download/desktop).
 
 
 
@@ -22,11 +22,11 @@ First of all, download and install the Ubuntu 18.04 disk image from [here](#http
 
 
 
-The next step is to install the Anaconda distribution for Linux systems, which will have a lot of the libraries needed installed for us. It can be downloaded from [here](#https://www.anaconda.com/download/#linux).
+The next step is to install the Anaconda distribution for Linux systems, which will have a lot of the libraries needed installed for us. It can be downloaded from [here](https://www.anaconda.com/download/#linux).
 
 
 
-The installation instructions can be found [here](#http://docs.anaconda.com/anaconda/install/linux/).
+The installation instructions can be found [here](http://docs.anaconda.com/anaconda/install/linux/).
 
 
 
@@ -66,7 +66,7 @@ ip install dash-table==3.1.11
 
 
 
-We will also need RStudio for the Dataset creation step. Instructions on how to install R and RStudio on Ubuntu 18.04 can be found [here](#https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04) and [here](#https://www.rstudio.com/products/rstudio/download/).
+We will also need RStudio for the Dataset creation step. Instructions on how to install R and RStudio on Ubuntu 18.04 can be found [here](https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04) and [here](https://www.rstudio.com/products/rstudio/download/).
 
 
 
