@@ -26,3 +26,6 @@ The project consists of the following steps:
 7. [Annex - Installation](https://github.com/miguelfzafra/Latest-News-Classifier/tree/master/0.%20Latest%20News%20Classifier/07.%20Annex%20-%20Installation)
 8. [Annex - Deployment](https://github.com/miguelfzafra/Latest-News-Classifier/tree/master/0.%20Latest%20News%20Classifier/08.%20Annex%20-%20Deployment)
 9. [Report](https://github.com/miguelfzafra/Latest-News-Classifier/tree/master/0.%20Latest%20News%20Classifier/09.%20Report)
+
+
+For any comments, suggestions or everything else, you can find me at my [mail](mailto:miguel@mfz.es), [linkedin](https://www.linkedin.com/in/miguelfzafra/) or [webpage](http://mfz.es)!
