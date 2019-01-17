@@ -11,7 +11,7 @@ This project is intended to be a walkthrough on the development of a machine lea
 
 This is achieved with a **supervised machine learning classification** model that is able to predict the category of a given news article, a **web scraping** method that gets the latest news from the newspapers, and an **interactive web application** that shows the obtained results to the user.
 
-The web application can be used at https://lnclass.herokuapp.com.
+The web application can be used at https://lnclass.herokuapp.com. Please consider that a live web-scraping process is carried out every time you run the app, so there may be some failures due to the failing status of some requests.
 
 The full detailed process is explained in the [Report](https://github.com/miguelfzafra/Latest-News-Classifier/blob/master/0.%20Latest%20News%20Classifier/09.%20Report/Latest%20News%20Classifier.pdf). Following it and the different notebooks should be necessary for reaching a  full understanding of the project.
 
