@@ -1,29 +1,52 @@
-﻿## Deployment
+## Deployment
 
-Dash apps are web applications that use Flask as the web framework. One of the simplest ways to deploy an application is with **Heroku**.
 
-The steps to deploy a web application with Heroku through `anaconda` in Windows are:
 
-#### Sign in to Heroku
+Dash apps are web applications that use Flask as the web framework. One of the simplest ways to deploy an application is with **Heroku**.
 
-#### Open the Anaconda Prompt
 
-#### Create a new folder (we have created it into **06. App Creation**)
+
+The steps to deploy a web application with Heroku through `anaconda` in Windows are:
+
+
+
+#### Sign in to Heroku
+
+
+
+#### Open the Anaconda Prompt
+
+
+
+#### Create a new folder (we have created it into **06. App Creation**)
+
+
 
 ```
-$ mkdir dash-app-lnclass$ cd dash-app-lnclass
+
+$ mkdir dash-app-lnclass
+$ cd dash-app-lnclass
+
 ```
 
-#### Initialize the folder with git
 
-```
-$ git init 
-```
 
-#### Create an `environment.yml` file in `dash-app-lnclass`
+#### Initialize the folder with git
 
-```
-name: dash_app_lnclass #Environment name
+
+```
+
+$ git init 
+
+```
+
+
+
+#### Create an `environment.yml` file in `dash-app-lnclass`
+
+```
+
+name: dash_app_lnclass #Environment name
 dependencies:
   - python=3.6
   - pip:
@@ -42,7 +65,10 @@ dependencies:
     - numpy
     - lxml
 
-```
+```
+
+
+
 #### Create the environment from `environment.yml` and activate it
 
 ```
