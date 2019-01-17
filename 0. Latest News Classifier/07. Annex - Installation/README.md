@@ -1,4 +1,4 @@
-﻿﻿## Annex 1: Installation
+﻿﻿# Annex 1: Installation
 
 In order to be able to replicate the results obtained in this project, we will detail the necessary installation and execution steps starting from a new virtual machine with **Ubuntu 18.04**.
 
