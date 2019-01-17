@@ -41,22 +41,18 @@ Although a lot of packages will be installed with the Anaconda distribution, we 
 ```
 
 # altair
-
 conda install -c conda-forge altair vega_datasets notebook vega
 
 # dash
-
 pip install dash==0.35.1
 # dash HTML components
 pip install dash-html-components==0.13.4
 
 # dash core components
-
 pip install dash-core-components==0.42.1
 
 # dash table
-p
-ip install dash-table==3.1.11
+pip install dash-table==3.1.11
 
 ```
 	
