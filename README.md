@@ -1,6 +1,6 @@
 # Latest News Classifier
 
-This is my **Final Project** from the Master in Data Science at KSchool.
+This is my **Final Project** from the MSc in Data Science at KSchool.
 
 <br/>
 <p align="center">
@@ -11,7 +11,7 @@ This project is intended to be a walkthrough on the development of a machine lea
 
 This is achieved with a **supervised machine learning classification** model that is able to predict the category of a given news article, a **web scraping** method that gets the latest news from the newspapers, and an **interactive web application** that shows the obtained results to the user.
 
-The web application can be used at https://lnclass.herokuapp.com. Please consider that a live web-scraping process is carried out every time you run the app, so there may be some crashes due to the failing status of some requests.
+The web application can be used at https://latestnewsclassifier.herokuapp.com. Please consider that a live web-scraping process is carried out every time you run the app, so there may be some crashes due to the failing status of some requests.
 
 The full detailed process is explained in the [Report](https://github.com/miguelfzafra/Latest-News-Classifier/blob/master/0.%20Latest%20News%20Classifier/09.%20Report/Latest%20News%20Classifier.pdf). Following it and the different notebooks should be necessary for reaching a  full understanding of the project.
 
@@ -26,6 +26,6 @@ The project consists of the following steps:
 7. [Annex - Installation](https://github.com/miguelfzafra/Latest-News-Classifier/tree/master/0.%20Latest%20News%20Classifier/07.%20Annex%20-%20Installation)
 8. [Annex - Deployment](https://github.com/miguelfzafra/Latest-News-Classifier/tree/master/0.%20Latest%20News%20Classifier/08.%20Annex%20-%20Deployment)
 9. [Report](https://github.com/miguelfzafra/Latest-News-Classifier/tree/master/0.%20Latest%20News%20Classifier/09.%20Report)
-
+10. [App Creation v2](https://github.com/miguelfzafra/Latest-News-Classifier/tree/master/0.%20Latest%20News%20Classifier/10.%20App%20Creation%20v2) (*I created a new version of the application after submitting the project.)
 
 For any comments, suggestions or everything else, you can find me at my [mail](mailto:miguel@mfz.es), [linkedin](https://www.linkedin.com/in/miguelfzafra/) or [webpage](http://mfz.es)!
