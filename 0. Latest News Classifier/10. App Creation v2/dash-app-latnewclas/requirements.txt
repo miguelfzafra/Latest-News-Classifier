@@ -19,7 +19,7 @@ Jinja2==2.10.1
 joblib==0.13.2
 jsonschema==3.0.1
 jupyter-core==4.5.0
-lxml==4.3.4
+lxml==4.6.3
 MarkupSafe==1.1.1
 nbformat==4.4.0
 nltk==3.4.4
