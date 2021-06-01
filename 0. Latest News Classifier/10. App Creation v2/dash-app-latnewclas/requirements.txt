@@ -37,6 +37,6 @@ scipy==1.3.0
 six==1.12.0
 soupsieve==1.9.2
 traitlets==4.3.2
-urllib3==1.25.3
+urllib3==1.26.5
 Werkzeug==0.15.4
 wincertstore==0.2
